@@ -1,41 +1,18 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-MERGED from [com.android.support:design:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ba016b188ed613aaac66fd819517754e\design-24.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\2e7755c883e2a0390052c0d66875547c\appcompat-v7-24.2.1\AndroidManifest.xml:17:1-27:12
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\25d7dd48479d671d8a5c10eacd16dd5d\circleimageview-2.1.0\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\17ef2a6c4aaeb813805b4998bf8ef816\play-services-appindexing-8.4.0\AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\37c13cb4b6c6de6405eea979c967d5be\play-services-base-8.4.0\AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\d8ca568cfa444104998693daa1522936\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ff3e0ce85a3d17c158d79351f73c21b9\animated-vector-drawable-24.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\82854da5a734837a6d5f451a46165769\support-vector-drawable-24.2.1\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\0f13d701e91b9300e2ce17dd4dd369e6\recyclerview-v7-24.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\51600d872dadd98aa3ba587d8141c0fe\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\824f4c3efc8ae0315839a08cfd31b8b6\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\dbaca040b157c80ad59e03fafe861ffb\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\76f9be284f73a4afc2d01c4f92055cca\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\c7e746a7d605df8e43dff39fbae7dc85\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
 	package
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
-		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-	android:versionCode
-		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:1-69:12
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:4:5-65
 	android:name
@@ -54,47 +31,34 @@ ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:7
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:7:22-78
 application
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:8:5-67:19
-MERGED from [com.android.support:design:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ba016b188ed613aaac66fd819517754e\design-24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ba016b188ed613aaac66fd819517754e\design-24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\2e7755c883e2a0390052c0d66875547c\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\2e7755c883e2a0390052c0d66875547c\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\25d7dd48479d671d8a5c10eacd16dd5d\circleimageview-2.1.0\AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\25d7dd48479d671d8a5c10eacd16dd5d\circleimageview-2.1.0\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\17ef2a6c4aaeb813805b4998bf8ef816\play-services-appindexing-8.4.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\17ef2a6c4aaeb813805b4998bf8ef816\play-services-appindexing-8.4.0\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\d8ca568cfa444104998693daa1522936\support-v4-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\d8ca568cfa444104998693daa1522936\support-v4-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ff3e0ce85a3d17c158d79351f73c21b9\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ff3e0ce85a3d17c158d79351f73c21b9\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\82854da5a734837a6d5f451a46165769\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\82854da5a734837a6d5f451a46165769\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\51600d872dadd98aa3ba587d8141c0fe\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\51600d872dadd98aa3ba587d8141c0fe\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\824f4c3efc8ae0315839a08cfd31b8b6\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\824f4c3efc8ae0315839a08cfd31b8b6\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\dbaca040b157c80ad59e03fafe861ffb\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\dbaca040b157c80ad59e03fafe861ffb\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\76f9be284f73a4afc2d01c4f92055cca\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\76f9be284f73a4afc2d01c4f92055cca\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\c7e746a7d605df8e43dff39fbae7dc85\support-compat-24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\c7e746a7d605df8e43dff39fbae7dc85\support-compat-24.2.1\AndroidManifest.xml:25:5-20
-	android:supportsRtl
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:12:9-35
+MERGED from [com.android.support:design:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
 	android:label
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:11:9-32
-	android:icon
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:10:9-43
+	android:supportsRtl
+		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:12:9-35
 	android:allowBackup
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.example.kcb.MainActivity
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:15:19-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:17:17-69
@@ -156,18 +120,17 @@ ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:5
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:52:13-39
 meta-data#com.google.android.gms.version
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:55:9-57:69
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:21:9-23:69
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
 	android:value
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:57:13-66
 	android:name
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:56:13-58
 provider#android.support.v4.content.FileProvider
 ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:58:9-66:20
-	android:grantUriPermissions
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:62:13-47
 	android:authorities
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:60:13-65
+	android:grantUriPermissions
+		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:62:13-47
 	android:exported
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:61:13-37
 	android:name
@@ -180,47 +143,26 @@ ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:6
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:64:17-67
 uses-sdk
 INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ba016b188ed613aaac66fd819517754e\design-24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ba016b188ed613aaac66fd819517754e\design-24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\2e7755c883e2a0390052c0d66875547c\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\2e7755c883e2a0390052c0d66875547c\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\25d7dd48479d671d8a5c10eacd16dd5d\circleimageview-2.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\25d7dd48479d671d8a5c10eacd16dd5d\circleimageview-2.1.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\17ef2a6c4aaeb813805b4998bf8ef816\play-services-appindexing-8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\17ef2a6c4aaeb813805b4998bf8ef816\play-services-appindexing-8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\37c13cb4b6c6de6405eea979c967d5be\play-services-base-8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\37c13cb4b6c6de6405eea979c967d5be\play-services-base-8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\e1c4dfd8baa474a85d49b13d7663a814\play-services-basement-8.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\d8ca568cfa444104998693daa1522936\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\d8ca568cfa444104998693daa1522936\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ff3e0ce85a3d17c158d79351f73c21b9\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\ff3e0ce85a3d17c158d79351f73c21b9\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\82854da5a734837a6d5f451a46165769\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\82854da5a734837a6d5f451a46165769\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\0f13d701e91b9300e2ce17dd4dd369e6\recyclerview-v7-24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\0f13d701e91b9300e2ce17dd4dd369e6\recyclerview-v7-24.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\51600d872dadd98aa3ba587d8141c0fe\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\51600d872dadd98aa3ba587d8141c0fe\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\824f4c3efc8ae0315839a08cfd31b8b6\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\824f4c3efc8ae0315839a08cfd31b8b6\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\dbaca040b157c80ad59e03fafe861ffb\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\dbaca040b157c80ad59e03fafe861ffb\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\76f9be284f73a4afc2d01c4f92055cca\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\76f9be284f73a4afc2d01c4f92055cca\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\c7e746a7d605df8e43dff39fbae7dc85\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\c7e746a7d605df8e43dff39fbae7dc85\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\rumosky\.gradle\caches\transforms-2\files-2.1\2e7755c883e2a0390052c0d66875547c\appcompat-v7-24.2.1\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:support-v4:24.2.1] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml
