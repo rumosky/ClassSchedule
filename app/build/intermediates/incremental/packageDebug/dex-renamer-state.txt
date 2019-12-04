@@ -1,4 +1,0 @@
-#Wed Dec 04 19:10:30 CST 2019
-base.0=D\:\\projects\\Android\\kcb\\kcb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=D\:\\projects\\Android\\kcb\\kcb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
