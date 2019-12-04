@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>单周</item>
+        <item>双周</item>
+        <item>每周</item>
+    </string-array>
+</resources>

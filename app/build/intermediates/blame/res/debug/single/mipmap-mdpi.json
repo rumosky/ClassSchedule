@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\projects\\Android\\kcb\\kcb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon.png",
+        "source": "D:\\projects\\Android\\kcb\\kcb\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\projects\\Android\\kcb\\kcb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\projects\\Android\\kcb\\kcb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

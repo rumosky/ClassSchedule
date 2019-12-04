@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:id="@+id/time_detail"
+        android:layout_height="180dp"
+        android:background="@color/colorPrimary"
+        android:padding="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:onClick="change_image"
+            android:id="@+id/icon_image"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/profile" />
+
+        <TextView
+            android:id="@+id/Menu_main_textDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="2018年12月25日"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/Menu_main_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/Menu_main_institute"
+            android:layout_marginBottom="10dp"
+            android:text="  Hello World"
+            android:textColor="#FFF"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/Menu_main_institute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="  计算机科学学院"
+            android:textColor="#FFF"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/Menu_main_major"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/Menu_main_institute"
+            android:layout_marginLeft="50dp"
+            android:text="软件工程1602"
+            android:textColor="#FFF"
+            android:textSize="14sp" />
+
+</RelativeLayout>

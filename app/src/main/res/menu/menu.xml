@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/single_week"
+            android:icon="@drawable/weekly_single"
+            android:title="单周"
+            />
+        <item
+            android:id="@+id/double_week"
+            android:icon="@drawable/weekly_double"
+            android:title="双周"
+            />
+        <item
+            android:id="@+id/add_courses"
+            android:icon="@drawable/ic_menu_course_add"
+            android:title="添加"
+            />
+        <item
+            android:id="@+id/score"
+            android:icon="@drawable/ic_menu_course_search"
+            android:title="成绩"
+            />
+        <item
+            android:id="@+id/login"
+            android:icon="@drawable/ic_import"
+            android:title="导入"
+            />
+        <item
+            android:id="@+id/menu_about"
+            android:icon="@drawable/about_us"
+            android:title="我们"
+            />
+    </group>
+</menu>

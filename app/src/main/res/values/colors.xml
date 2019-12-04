@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scu__defaultBackground">#e0e0e0</color>
+    <color name="scu__defaultContent">#f5f5f5</color>
+    <color name="subWeekHead">#fff7f6f4</color>
+    <color name="textBorder">#a8abad</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#33a3dc</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffc9c9c9</color>
+    <color name="textColorPrimary">#616161</color>
+    <color name="courseTable1">#ffe066</color>
+    <color name="courseTable2">#9C27B0</color>
+    <color name="courseTable3">#03A9F4</color>
+    <color name="courseTable4">#F44336</color>
+    <color name="courseTable5">#8BC34A</color>
+    <color name="courseTable6">#33a3dc</color>
+    <color name="courseTable7">#65c294</color>
+    <color name="courseTable8">#facee1</color>
+    <color name="courseTable9">#6950a1</color>
+    <color name="courseTable10">#78cdd1</color>
+    <color name="md_transparent">#00000000</color>
+    <color name="province_line_border">#C7C7C7</color>
+</resources>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="250dp"
+        android:layout_height="340dp"
+        android:layout_gravity="center"
+        android:scrollbars="vertical"
+        android:scrollbarAlwaysDrawHorizontalTrack="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:weightSum="1">
+            <Spinner
+                android:layout_marginTop="5dp"
+                android:id="@+id/week_choose"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:entries="@array/weeks"
+                android:spinnerMode="dialog"
+                />
+
+            <EditText
+                android:id="@+id/course_name"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:imeOptions="actionNext"
+                android:hint="课程名"/>
+
+            <EditText
+                android:id="@+id/day"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:inputType="number"
+                android:hint="星期几"/>
+
+            <EditText
+                android:id="@+id/classes_begin"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:inputType="number"
+                android:hint="第几节课开始"/>
+            <EditText
+                android:id="@+id/classes_ends"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:inputType="number"
+                android:hint="第几节课结束"/>
+            <EditText
+                android:id="@+id/teacher_name"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:imeOptions="actionNext"
+                android:hint="教师" />
+            <EditText
+                android:id="@+id/class_room"
+                android:layout_width="190dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:imeOptions="actionNext"
+                android:hint="教室" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:background="@drawable/shape"
+        android:textColor="#fff"
+        android:text="完成" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="\n 在课程表界面长按一个课程可以删除它 \n"/>
+    <Button
+        android:id="@+id/back_add"
+        android:background="@drawable/cancle"
+        android:layout_width="25dp"
+        android:layout_marginLeft="260dp"
+        android:layout_height="30dp" />
+
+
+</LinearLayout>
