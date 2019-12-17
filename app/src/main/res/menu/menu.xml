@@ -19,12 +19,16 @@
             android:title="添加"
             />
         <item
+            android:enabled="false"
             android:id="@+id/score"
+            android:visible="false"
             android:icon="@drawable/ic_menu_course_search"
             android:title="成绩"
             />
         <item
             android:id="@+id/login"
+            android:enabled="false"
+            android:visible="false"
             android:icon="@drawable/ic_import"
             android:title="导入"
             />

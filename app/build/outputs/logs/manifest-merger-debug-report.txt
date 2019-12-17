@@ -45,7 +45,7 @@ MERGED from [de.hdodenhof:circleimageview:2.1.0] D:\Git\Android\ceshi\ClassSched
 MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] D:\Git\Android\ceshi\ClassSchedule\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
 	android:label
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:11:9-32
+		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:11:9-28
 	android:supportsRtl
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:12:9-35
 	android:allowBackup
