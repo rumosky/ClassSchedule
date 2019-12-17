@@ -10,8 +10,8 @@
         <de.hdodenhof.circleimageview.CircleImageView
             android:onClick="change_image"
             android:id="@+id/icon_image"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:layout_centerInParent="true"
             android:src="@drawable/profile" />
 
@@ -22,6 +22,7 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:text="2018年12月25日"
+            android:visibility="invisible"
             android:textColor="#FFF"
             android:textSize="18sp" />
 
@@ -32,6 +33,7 @@
             android:layout_above="@+id/Menu_main_institute"
             android:layout_marginBottom="10dp"
             android:text="  Hello World"
+            android:visibility="invisible"
             android:textColor="#FFF"
             android:textSize="18sp" />
 
@@ -50,7 +52,7 @@
             android:layout_alignParentBottom="true"
             android:layout_toRightOf="@+id/Menu_main_institute"
             android:layout_marginLeft="50dp"
-            android:text="软件工程1602"
+            android:text="软件工程1702"
             android:textColor="#FFF"
             android:textSize="14sp" />
 

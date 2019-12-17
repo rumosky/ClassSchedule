@@ -22,11 +22,13 @@
             android:id="@+id/score"
             android:icon="@drawable/ic_menu_course_search"
             android:title="成绩"
+            android:visible="false"
             />
         <item
             android:id="@+id/login"
             android:icon="@drawable/ic_import"
             android:title="导入"
+            android:visible="false"
             />
         <item
             android:id="@+id/menu_about"

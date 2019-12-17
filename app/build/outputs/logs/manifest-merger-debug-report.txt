@@ -83,7 +83,7 @@ MERGED from [com.android.support:support-compat:24.2.1] C:\Users\rumosky\.gradle
 	android:supportsRtl
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:11:9-32
+		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:11:9-28
 	android:icon
 		ADDED from D:\Git\Android\ceshi\ClassSchedule\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
