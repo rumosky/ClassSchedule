@@ -49,7 +49,5 @@ app仅需要存储和相机权限
 8. 更换头像
 ![更换头像](https://images.gitee.com/uploads/images/2019/1218/002256_217437f0_1835738.jpeg "Screenshot_20191218_001651_com.example.kcb.jpg")
 
-9. 关于我们
-![关于我们](https://images.gitee.com/uploads/images/2019/1218/002514_bfcb53ed_1835738.jpeg "Screenshot_20191218_001643_com.example.kcb.jpg")
 
 反馈：https://rumosky.com/archives/75
