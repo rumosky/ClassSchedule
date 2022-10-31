@@ -14,11 +14,6 @@ Gradle版本5.4.1
 Gradle插件版本3.5.2
 ```
 
-国内仓库地址：https://gitee.com/rumosky_admin/ClassSchedule.git
-
-GitHub地址：https://github.com/rumosky/ClassSchedule.git
-
-
 **编译开发请自行选择相应版本，体验请下载发行版**
 
 app仅需要存储和相机权限
@@ -56,3 +51,5 @@ app仅需要存储和相机权限
 
 9. 关于我们
 ![关于我们](https://images.gitee.com/uploads/images/2019/1218/002514_bfcb53ed_1835738.jpeg "Screenshot_20191218_001643_com.example.kcb.jpg")
+
+反馈：https://rumosky.com/archives/75
